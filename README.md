@@ -8,6 +8,8 @@ A Kotlin Multiplatform (KMP) library to monitor internet connection status acros
 - Provides a simple API to start and stop monitoring.
 - Uses Kotlin Coroutines and Flow for reactive programming.
 
+<img src="img/1.png" alt="Android" width="200"/>
+
 ## Installation
 
 ### Gradle

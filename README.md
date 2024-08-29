@@ -30,7 +30,7 @@ kotlin {
 ## Usage
 
 ### Common Code
-In your common code, you can use the `InternetConnection` class to check the connectivity status.
+In your common code.
 
 ```kotlin
 expect class InternetStatus {
